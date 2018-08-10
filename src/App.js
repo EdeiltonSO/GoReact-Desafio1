@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 
 import Header from '../components/header';
 import Post from '../components/post';
-import '../styles/index.scss';
+import '../styles/App.scss';
 
 class App extends Component {
   state = {
