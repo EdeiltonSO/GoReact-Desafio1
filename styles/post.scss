@@ -1,0 +1,24 @@
+div.post {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  width: 700px;
+  height: fit-content;
+  border: 1px solid #ccc;
+  background: #fff;
+  margin: 30px 0;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 3px #bbb;
+}
+
+div.line {
+  margin: 22px 0;
+  background: #eee;
+  height: 1px;
+  width: 100%;
+}
+
+div.content {
+  font-size: 16px;
+  color: #333;
+}
